@@ -4,7 +4,7 @@
 📌 À la recherche d'une alternance en septembre 2025  
 
 ## 🔗 Mon CV  
-📄 [Télécharger mon CV](https://github.com/Zamakhm/Portfolio/blob/main/CV_Zamakh.pdf)
+📄 [Télécharger mon CV](https://github.com/Zamakhm/Portfolio/blob/main/CV%20zamakh.pdf)
 
 ## 🛠️ Compétences  
 - **Langages** : Python, SQL, C, Bash  
@@ -15,4 +15,4 @@
 📊 **[Prévision des ventes avec ML](https://github.com/Zamakhm/Prevision_ventes_ML)**  
 
 ## 📩 Contact  
-📧 zamakhm@yahoo.com | 🔗 [LinkedIn]](https://www.linkedin.com/in/zamakhchari-mahamat-saleh/) 
+📧 zamakhm@yahoo.com | 🔗 [LinkedIn](https://www.linkedin.com/in/zamakhchari-mahamat-saleh/) 
