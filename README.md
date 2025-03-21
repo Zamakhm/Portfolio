@@ -11,9 +11,8 @@
 - **Outils** : Pandas, Scikit-Learn, Matplotlib  
 - **Domaines** : Machine Learning, Data Science, Modélisation  
 
-## 📂 Projets Notables  
+## 📂 Projets  
 📊 **[Prévision des ventes avec ML](https://github.com/Zamakhm/Prevision_ventes_ML)**  
-🔍 **[Analyse de données immobilières](https://github.com/Zamakhm/Data-Analysis-With-Python)**  
 
 ## 📩 Contact  
 📧 zamakhm@yahoo.com | 🔗 [LinkedIn]](https://www.linkedin.com/in/zamakhchari-mahamat-saleh/) 
